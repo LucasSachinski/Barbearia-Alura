@@ -1,0 +1,14 @@
+body {
+  font-family: sytem-ui;
+  background: black;
+  color: white;
+  text-align: center;
+  
+}
+
+em strong
+{
+  color: red}
+
+#Barbearia
+{ width: 50%}
